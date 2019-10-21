@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+<head>
 # What are the even numbers from 1 to num?
 
 num = 123
