@@ -2,5 +2,8 @@
 # A prime number is an integer with exactly 2 different factors, 1 and itself.
 # Consider implementing stop checking at int(num ** 0.5) for efficiency.
 
+<!DOCTYPE html>
+<html>
+<head>
 num = 61
 
